@@ -1,10 +1,10 @@
 # Awesome scbcn18 talks and workshop (It might have some changes)
 
-- Case Study: Practical tools and strategies for tackling legacy practices and legacy systems in a fast-growing startup.
 - A cowgirl journey
 - Acercándonos a la Programación Funcional 🦄 a través de la Arquitectura Hexagonal 🎯
 - Automatiza y vencerás!
 - Calisthenics - Smells - SOLID - Cohesion / Cupling connecting the dots
+- Case Study: Practical tools and strategies for tackling legacy practices and legacy systems in a fast-growing startup.
 - Clean Code, Clean Tests, Clean Life 
 - Communication Antipatterns and where to find them 
 - Continuous Deployment With Jenkins X And Kubernetes
