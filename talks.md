@@ -1,0 +1,34 @@
+# Awesome scbcn18 talks and workshop (It might have some changes)
+
+- Case Study: Practical tools and strategies for tackling legacy practices and legacy systems in a fast-growing startup.
+- A cowgirl journey
+- Acercándonos a la Programación Funcional 🦄 a través de la Arquitectura Hexagonal 🎯
+- Automatiza y vencerás!
+- Calisthenics - Smells - SOLID - Cohesion / Cupling connecting the dots
+- Clean Code, Clean Tests, Clean Life 
+- Communication Antipatterns and where to find them 
+- Continuous Deployment With Jenkins X And Kubernetes
+- Creating a web browser game with websockets
+- Culture. What is that? Is it edible?
+- Dame tus tipos Pegaso
+- Del CSS semántico a utility-first: nuestro viaje hacia un CSS comprensible y reusable
+- Developer Responsibility Principle
+- Istio Service Mesh & pragmatic microservices architecture
+- keep calm and do a great presentation
+- Kubeflow: Escalando tus modelos de tensorflow con kubernetes
+- Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow
+- Machine Learning para optimizar imágenes
+- Mi Monolito Mola Mucho
+- Mide más y sufre menos
+- MVP & FRP for a controllerless architecture
+- Playing with IoT and planes
+- Powerpoint karaoke
+- Reactive microsystems
+- Retos en el desarrollo de un videojuego HTML5 para una principiante
+- Serverless Programming for implementing Active Security in a microservices world.
+- Sobreviviendo en Producción: Gestión de incidencias y aprendizaje
+- Spending $34.66 for saving $150,000.00 a year in AWS
+- Texturas
+- The Science of Not Estimating
+- Timeless Streams
+- Todo lo que podría salir mal, ha salido mal con D3 y grafos.
