@@ -40,4 +40,4 @@
 - Powerpoint karaoke
 
 
-## Plus Open space!
+## Plus Open Space!
