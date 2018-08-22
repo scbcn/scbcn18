@@ -1,6 +1,6 @@
 # Awesome #scbcn18 talks and workshop (There could be changes)
 
-## Sessions in english
+## Sessions in english 
 
 - Clean Code, Clean Tests, Clean Life 
 - Communication Antipatterns and where to find them 
@@ -40,3 +40,4 @@
 - Powerpoint karaoke
 
 
+## Plus Open space!
