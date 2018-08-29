@@ -1,8 +1,8 @@
 # Awesome #scbcn18 talks and workshop (There could be changes)
 
-## Sessions in english 
+## Talks in English 
 
-- Clean Code, Clean Tests, Clean Life 
+- Calisthenics - Smells - SOLID - Cohesion / Cupling connecting the dots
 - Communication Antipatterns and where to find them 
 - Continuous Deployment With Jenkins X And Kubernetes
 - Developer Responsibility Principle
@@ -12,8 +12,9 @@
 - The Science of Not Estimating
 - Timeless Streams
 
+## Sessions in Spanish
 
-## Sessions in spanish
+### Talks
 
 - A cowgirl journey
 - Todo lo que podría salir mal, ha salido mal con D3 y grafos.
@@ -27,17 +28,25 @@
 - Mi Monolito Mola Mucho
 - Serverless Programming for implementing Active Security in a microservices world.
 - Acercándonos a la Programación Funcional 🦄 a través de la Arquitectura Hexagonal 🎯
-- Sobreviviendo en Producción: Gestión de incidencias y aprendizaje
 - Spending $34.66 for saving $150,000.00 a year in AWS
 - Retos en el desarrollo de un videojuego HTML5 para una principiante
 - Culture. What is that? Is it edible?
 - Creating a web browser game with websockets
--  Case Study: Practical tools and strategies for tackling legacy practices and legacy systems in a fast-growing startup.
-- keep calm and do a great presentation
-- Kubeflow: Escalando tus modelos de tensorflow con kubernetes
-- Playing with IoT and planes
-- Calisthenics - Smells - SOLID - Cohesion / Cupling connecting the dots
+- Case Study: Practical tools and strategies for tackling legacy practices and legacy systems in a fast-growing startup.
+- Operational Serverless
 - Powerpoint karaoke
+
+### Workshops
+- keep calm and do a great presentation
+- Cambios en paralelo. Cambios grandes, pasos pequeños
+- Playing with IoT and planes
+- Kubeflow: Escalando tus modelos de tensorflow con kubernetes
 
 
 ## Plus Open Space!
+
+## Summary
+* Talks in Spanish: 19
+* Talks in English: 9
+* Workshops in Spanish: 4
+* Open Space: 3h on each one of the 4 tracks
