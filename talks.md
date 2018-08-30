@@ -30,7 +30,7 @@
 - Acercándonos a la Programación Funcional 🦄 a través de la Arquitectura Hexagonal 🎯
 - Spending $34.66 for saving $150,000.00 a year in AWS
 - Retos en el desarrollo de un videojuego HTML5 para una principiante
-- Culture. What is that? Is it edible?
+- Culture: engine and stopper of changes
 - Creating a web browser game with websockets
 - Case Study: Practical tools and strategies for tackling legacy practices and legacy systems in a fast-growing startup.
 - Operational Serverless
