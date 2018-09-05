@@ -1,3 +1,7 @@
+⚠️ This document may be outdated ⚠️
+
+Please, go to [the conference homepage](https://scbcn.github.io/) in order to checkout the final schedule 🙂🦄
+
 # Awesome #scbcn18 talks and workshop (There could be changes)
 
 ## Talks in English 
